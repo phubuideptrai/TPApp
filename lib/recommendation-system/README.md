@@ -1,4 +1,4 @@
-# Recommendation System for Be Beauty
+# Recommendation System for TP App
 
 ## Content
 1. [Recommendation System](#Recommendation-System)
@@ -19,7 +19,7 @@
 
    2.3 [So sánh](#So-sánh)
 
-1. [Ý tưởng cho Be Beauty](#Ý-tưởng-cho-Be-Beauty)
+1. [Ý tưởng cho TP App](#Ý-tưởng-cho-TP-App)
 
 # Recommendation System
 ### Định nghĩa
@@ -153,7 +153,7 @@ Content-based Filtering: Tạo ra một mô hình mô tả sở thích của ng�
 Collaborative Filtering: Nhận ra người sử dụng trong U tượng tự với u ( về sở thích) và sau đó ngoại suy điểm số đánh giá của u cho i.
 
 
-# Ý tưởng cho Be Beauty
+# Ý tưởng cho TP App
 
 Áp dựng Content-based Filtering Recommender
 
